@@ -3,7 +3,7 @@ length = 10
 width = 5
 
 #Area of the rectangle
-Area = length * width
+area = length * width
 
 #Print the calculated area
-print("The area of the rectangle is:",Area)
+print("The area of the rectangle is:",area)
