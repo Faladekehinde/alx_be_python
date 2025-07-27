@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="43ad0189-023b-4632-898c-dea5f05efb2e" name="Changes" comment="Updating" />
+    <list default="true" id="43ad0189-023b-4632-898c-dea5f05efb2e" name="Changes" comment="Updating">
+      <change afterPath="$PROJECT_DIR$/fns_and_dsa/explore_datetime.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,38 +32,38 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.arithmetic_operations.executor": "Run",
-    "Python.daily_reminder.executor": "Run",
-    "Python.explore_datetime.executor": "Run",
-    "Python.finance_calculator.executor": "Run",
-    "Python.future_age_calculator.executor": "Run",
-    "Python.greetings.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.match_case_calculator.executor": "Run",
-    "Python.multiplication_table.executor": "Run",
-    "Python.pattern_drawing.executor": "Run",
-    "Python.shopping_list_manager.executor": "Run",
-    "Python.weather_advice.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/Hp/alx_be_python",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.arithmetic_operations.executor&quot;: &quot;Run&quot;,
+    &quot;Python.daily_reminder.executor&quot;: &quot;Run&quot;,
+    &quot;Python.explore_datetime.executor&quot;: &quot;Run&quot;,
+    &quot;Python.finance_calculator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.future_age_calculator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.greetings.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.match_case_calculator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.multiplication_table.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pattern_drawing.executor&quot;: &quot;Run&quot;,
+    &quot;Python.shopping_list_manager.executor&quot;: &quot;Run&quot;,
+    &quot;Python.weather_advice.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Hp/alx_be_python&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
-      "PLAIN_TEXT"
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;PLAIN_TEXT&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -81,7 +84,7 @@
       <workItem from="1753030120909" duration="176000" />
       <workItem from="1753031321440" duration="10427000" />
       <workItem from="1753365837320" duration="8720000" />
-      <workItem from="1753601744315" duration="13809000" />
+      <workItem from="1753601744315" duration="14301000" />
     </task>
     <task id="LOCAL-00001" summary="Fix: correct input prompt to match ALX checker">
       <option name="closed" value="true" />
