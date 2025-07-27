@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="43ad0189-023b-4632-898c-dea5f05efb2e" name="Changes" comment="Merge remote-tracking branch 'origin/main'">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fns_and_dsa/arithmetic_operations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fns_and_dsa/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2zpqgOyInIYq6HZ5nXvX9Je6UJZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.daily_reminder.executor&quot;: &quot;Run&quot;,
+    &quot;Python.finance_calculator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.future_age_calculator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.greetings.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.match_case_calculator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.multiplication_table.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pattern_drawing.executor&quot;: &quot;Run&quot;,
+    &quot;Python.weather_advice.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Hp/alx_be_python&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;PLAIN_TEXT&quot;
+    ]
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-6a121458b545-JavaScript-PY-251.25410.159" />
+        <option value="bundled-python-sdk-e0ed3721d81e-36ea0e71a18c-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.25410.159" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="43ad0189-023b-4632-898c-dea5f05efb2e" name="Changes" comment="" />
+      <created>1752438472761</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1752438472761</updated>
+      <workItem from="1752438474041" duration="5632000" />
+      <workItem from="1752532058865" duration="3318000" />
+      <workItem from="1753030120909" duration="176000" />
+      <workItem from="1753031321440" duration="10427000" />
+      <workItem from="1753365837320" duration="8720000" />
+      <workItem from="1753601744315" duration="9533000" />
+    </task>
+    <task id="LOCAL-00001" summary="Fix: correct input prompt to match ALX checker">
+      <option name="closed" value="true" />
+      <created>1752438635539</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1752438635539</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Fix: correct input prompt to match ALX checker">
+      <option name="closed" value="true" />
+      <created>1752440067316</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1752440067316</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Fix: Update file">
+      <option name="closed" value="true" />
+      <created>1752440690438</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1752440690438</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Fix: Update file">
+      <option name="closed" value="true" />
+      <created>1752444500786</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1752444500786</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Update on my code">
+      <option name="closed" value="true" />
+      <created>1753033772523</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1753033772523</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Merge remote-tracking branch 'origin/main'">
+      <option name="closed" value="true" />
+      <created>1753037031106</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1753037031106</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Fix: correct input prompt to match ALX checker" />
+    <MESSAGE value="Fix: Update file" />
+    <MESSAGE value="Update on my code" />
+    <MESSAGE value="Adding Simple Calculator with Match Case" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/main'" />
+    <MESSAGE value="Updating" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updating" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/alx_be_python$match_case_calculator.coverage" NAME="match_case_calculator Coverage Results" MODIFIED="1753036780317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/control-flow" />
+    <SUITE FILE_PATH="coverage/alx_be_python$finance_calculator.coverage" NAME="finance_calculator Coverage Results" MODIFIED="1752439937705" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_introduction" />
+    <SUITE FILE_PATH="coverage/alx_be_python$weather_advice.coverage" NAME="weather_advice Coverage Results" MODIFIED="1753032509522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/control-flow" />
+    <SUITE FILE_PATH="coverage/alx_be_python$pattern_drawing.coverage" NAME="pattern_drawing Coverage Results" MODIFIED="1753039960863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/control-flow" />
+    <SUITE FILE_PATH="coverage/alx_be_python$main.coverage" NAME="main Coverage Results" MODIFIED="1753633937174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fns_and_dsa" />
+    <SUITE FILE_PATH="coverage/alx_be_python$multiplication_table.coverage" NAME="multiplication_table Coverage Results" MODIFIED="1753039857446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/control-flow" />
+    <SUITE FILE_PATH="coverage/alx_be_python$daily_reminder.coverage" NAME="daily_reminder Coverage Results" MODIFIED="1753040362194" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/control-flow" />
+    <SUITE FILE_PATH="coverage/alx_be_python$future_age_calculator.coverage" NAME="future_age_calculator Coverage Results" MODIFIED="1752532105997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_introduction" />
+    <SUITE FILE_PATH="coverage/alx_be_python$greetings.coverage" NAME="greetings Coverage Results" MODIFIED="1753605351272" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
