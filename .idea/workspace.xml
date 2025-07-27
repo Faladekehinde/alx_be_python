@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="43ad0189-023b-4632-898c-dea5f05efb2e" name="Changes" comment="Merge remote-tracking branch 'origin/main'" />
+    <list default="true" id="43ad0189-023b-4632-898c-dea5f05efb2e" name="Changes" comment="Updating" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -79,7 +79,7 @@
       <workItem from="1753030120909" duration="176000" />
       <workItem from="1753031321440" duration="10427000" />
       <workItem from="1753365837320" duration="8720000" />
-      <workItem from="1753601744315" duration="11465000" />
+      <workItem from="1753601744315" duration="12486000" />
     </task>
     <task id="LOCAL-00001" summary="Fix: correct input prompt to match ALX checker">
       <option name="closed" value="true" />
@@ -129,7 +129,31 @@
       <option name="project" value="LOCAL" />
       <updated>1753037031106</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Updating">
+      <option name="closed" value="true" />
+      <created>1753638523439</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1753638523439</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Updating">
+      <option name="closed" value="true" />
+      <created>1753638544577</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1753638544577</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Updating">
+      <option name="closed" value="true" />
+      <created>1753638556302</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1753638556302</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -153,7 +177,8 @@
     <MESSAGE value="Adding Simple Calculator with Match Case" />
     <MESSAGE value="Merge remote-tracking branch 'origin/main'" />
     <MESSAGE value="Updating" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updating" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;fns_and_dsa/shopping_list_manager.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;fns_and_dsa/shopping_list_manager.py" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/alx_be_python$match_case_calculator.coverage" NAME="match_case_calculator Coverage Results" MODIFIED="1753036780317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/control-flow" />
